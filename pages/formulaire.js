@@ -85,7 +85,7 @@ export default function Formulaire(props) {
             />
           </label>
           <p className="text-slate-600 text-base mt-4 pb-4">
-            Choisisez votre lieux:
+            Choisisez votre lieu:
           </p>
           <label htmlFor="place" className="flex flex-row justify-between px-6">
             <p>Lyon</p>
